@@ -1,10 +1,10 @@
 const games = [
   {
     name: "Resident Evil 2",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/resident-evil-2-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/resident-evil-2-logo.webp",
     description: "A deadly virus engulfs the residents of Raccoon City in September of 1998, plunging the city into chaos as flesh eating zombies roam the streets for survivors. An unparalleled adrenaline rush, gripping storyline, and unimaginable horrors await you.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/resident-evil-2.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/resident-evil-2-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/resident-evil-2.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/resident-evil-2-exp.webp",
     link: "https://store.steampowered.com/app/883710/Resident_Evil_2/",
     store: "steam",
     tags: [
@@ -20,10 +20,10 @@ const games = [
   },
   {
     name: "Resident Evil 3",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/resident-evil-3-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/resident-evil-3-logo.webp",
     description: "Jill Valentine is one of the last remaining people in Raccoon City to witness the atrocities Umbrella performed. To stop her, Umbrella unleashes their ultimate secret weapon: Nemesis!",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/resident-evil-3.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/resident-evil-3-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/resident-evil-3.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/resident-evil-3-exp.webp",
     link: "https://store.steampowered.com/app/952060/Resident_Evil_3/",
     store: "steam",
     tags: [
@@ -39,10 +39,10 @@ const games = [
   },
   {
     name: "Resident Evil 7",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/resident-evil-7-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/resident-evil-7-logo.webp",
     description: "Ethan Winters is lured to a rotting Louisiana plantation to find his missing wife, only to be met by the sadistic mold-crazed Baker family.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/resident-evil-7.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/resident-evil-7-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/resident-evil-7.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/resident-evil-7-exp.webp",
     link: "https://store.steampowered.com/app/418370/Resident_Evil_7_Biohazard/",
     store: "steam",
     tags: [
@@ -58,10 +58,10 @@ const games = [
   },
   {
     name: "Batman: Arkham Knight",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/batman-arkham-knight-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/batman-arkham-knight-logo.webp",
     description: "Batman faces Scarecrow's fear toxin raining over Gotham while a mysterious Arkham Knight commands an army built to kill the Bat.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/batman-arkham-knight.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/batman-arkham-knight-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/batman-arkham-knight.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/batman-arkham-knight-exp.webp",
     link: "https://store.steampowered.com/app/208650/Batman_Arkham_Knight/",
     store: "steam",
     tags: [
@@ -73,10 +73,10 @@ const games = [
   },
   {
     name: "LEGO Batman 2: DC Super Heroes",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/lego-batman-2-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/lego-batman-2-logo.webp",
     description: "Legends Unite! The Dynamic Duo of Batman and Robin join other famous super heroes from the DC Universe including Superman, Wonder Woman and Green Lantern to save Gotham City from destruction at the hands of the notorious villains Lex Luthor and the Joker.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/lego-batman-2.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/lego-batman-2-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/lego-batman-2.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/lego-batman-2-exp.webp",
     link: "https://store.steampowered.com/app/213330/LEGO_Batman_2_DC_Super_Heroes/",
     store: "steam",
     tags: [
@@ -88,10 +88,10 @@ const games = [
   },
   {
     name: "Sea of Thieves",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/sea-of-thieves-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/sea-of-thieves-logo.webp",
     description: "Sea of Thieves is a smash-hit pirate adventure game, offering the quintessential pirate experience of plundering lost treasures, intense battles, vanquishing sea monsters and more.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/sea-of-thieves.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/sea-of-thieves-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/sea-of-thieves.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/sea-of-thieves-exp.webp",
     link: "https://store.steampowered.com/app/1172620/Sea_of_Thieves",
     store: "steam",
     tags: [
@@ -103,10 +103,10 @@ const games = [
   },
   {
     name: "Bioshock Remastered",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/bioshock-remastered-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/bioshock-remastered-logo.webp",
     description: "Explore the undersea city of Rapture, a haven for society's greatest minds that has devolved into a dystopian nightmare wrought by one man's hubris. Your only hopes for survival are quick thinking, reclaimed weaponry, and superhuman powers granted by DNA-altering Plasmids.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/bioshock-remastered.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/bioshock-remastered-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/bioshock-remastered.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/bioshock-remastered-exp.webp",
     link: "https://store.steampowered.com/app/409710/BioShock_Remastered/",
     store: "steam",
     tags: [
@@ -122,10 +122,10 @@ const games = [
   },
   {
     name: "Lego Batman: The Videogame",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/lego-batman-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/lego-batman-logo.webp",
     description: "A mass breakout occurs at Arkham Asylum, organized by the Joker, the Penguin and the Riddler. The fifteen escapees separate into three teams. Alerted by the situation, Batman and Robin are called by Comissioner Gordon to capture them and stop their goals.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/lego-batman.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/lego-batman-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/lego-batman.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/lego-batman-exp.webp",
     link: "https://store.steampowered.com/app/21000/LEGO_Batman_The_Videogame/",
     store: "steam",
     tags: [
@@ -137,10 +137,10 @@ const games = [
   },
   {
     name: "DOOM Eternal",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/doom-eternal-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/doom-eternal-logo.webp",
     description: "Hell's armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear... is you.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/doom-eternal.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/doom-eternal-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/doom-eternal.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/doom-eternal-exp.webp",
     link: "https://store.steampowered.com/app/782330/DOOM_Eternal/",
     store: "steam",
     tags: [
@@ -152,10 +152,10 @@ const games = [
   },
   {
     name: "World War Z",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/world-war-z-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/world-war-z-logo.webp",
     description: "World War Z is a heart-pounding coop third-person shooter for up to 4 players featuring massive swarms of hundreds of zombies, focused on fast-paced, gruesomely spectacular action.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/world-war-z.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/world-war-z-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/world-war-z.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/world-war-z-exp.webp",
     link: "https://store.steampowered.com/app/699130/World_War_Z/",
     store: "steam",
     tags: [
@@ -167,10 +167,10 @@ const games = [
   },
   {
     name: "Gemini: Heroes Reborn",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/gemini-heroes-reborn-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/gemini-heroes-reborn-logo.webp",
     description: "Gemini: Heroes Reborn is a first person action-adventure that allows users to enter into the role of Cassandra, on a journey to unlock incredible powers, unique in the Heroes Universe.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/gemini-heroes-reborn.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/gemini-heroes-reborn-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/gemini-heroes-reborn.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/gemini-heroes-reborn-exp.webp",
     link: "https://store.steampowered.com/app/324650/Gemini_Heroes_Reborn/",
     store: "steam",
     tags: [
@@ -182,10 +182,10 @@ const games = [
   },
   {
     name: "SUPERHOT",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/superhot-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/superhot-logo.webp",
     description: "SUPERHOT is the smash-hit FPS where time moves only when you move. No regenerating health bars. It's you, alone, outnumbered and outgunned. Snatch weapons from fallen enemies to shoot and slice through a cinematic hurricane of slow-motion bullets.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/superhot.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/superhot-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/superhot.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/superhot-exp.webp",
     link: "https://store.steampowered.com/app/322500/SUPERHOT/",
     store: "steam",
     tags: [
@@ -197,10 +197,10 @@ const games = [
   },
   {
     name: "Industria",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/industria-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/industria-logo.webp",
     description: "On the evening of the fall of the Berlin wall, a young woman plunges headlong into a parallel dimension to find her missing work colleague who has disappeared under mysterious circumstances. On the other side, a stranger helps her, while slowly revealing his heartbreaking story.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/industria.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/industria-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/industria.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/industria-exp.webp",
     link: "https://store.steampowered.com/app/1172650/INDUSTRIA/",
     store: "steam",
     tags: [
@@ -216,10 +216,10 @@ const games = [
   },
   {
     name: "Genshin Impact",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/genshin-impact-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/genshin-impact-logo.webp",
     description: "A mysterious traveler awakens on the beaches of Teyvat, chasing a twin who vanished with a god and an entire sky full of unanswered questions.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/genshin-impact.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/genshin-impact-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/genshin-impact.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/genshin-impact-exp.webp",
     link: "https://store.epicgames.com/en-US/p/genshin-impact",
     store: "epic",
     tags: [
@@ -235,10 +235,10 @@ const games = [
   },
   {
     name: "Control",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/control-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/control-logo.webp",
     description: "The Oldest House shifts corridors like memories, feeding on staff secrets while Jesse negotiates staplers that levitate and toilets that devour.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/control.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/control-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/control.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/control-exp.webp",
     link: "https://store.steampowered.com/app/870780/Control_Ultimate_Edition/",
     store: "steam",
     tags: [
@@ -250,10 +250,10 @@ const games = [
   },
   {
     name: "Bendy and the Dark Revival",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/bendy-and-the-dark-revival-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/bendy-and-the-dark-revival-logo.webp",
     description: "Bendy and the Dark Revival is a first-person survival horror game set in the creepiest cartoon studio. Meet old characters as well as many new faces. Do your best to survive, escape the studio. Above all, fear the Ink Demon",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/bendy-and-the-dark-revival.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/bendy-and-the-dark-revival-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/bendy-and-the-dark-revival.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/bendy-and-the-dark-revival-exp.webp",
     link: "https://store.steampowered.com/app/1063660/Bendy_and_the_Dark_Revival/",
     store: "steam",
     tags: [
@@ -269,10 +269,10 @@ const games = [
   },
   {
     name: "The Mortuary Assistant",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/the-mortuary-assistant-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/the-mortuary-assistant-logo.webp",
     description: "Alone with the dead... Embalm corpses, banish demons, save your soul.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/the-mortuary-assistant.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/the-mortuary-assistant-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/the-mortuary-assistant.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/the-mortuary-assistant-exp.webp",
     link: "https://store.steampowered.com/app/1295920/The_Mortuary_Assistant/",
     store: "steam",
     tags: [
@@ -284,10 +284,10 @@ const games = [
   },
   {
     name: "The Quarry",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/the-quarry-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/the-quarry-logo.webp",
     description: "It's late summer in the remote forests of upstate New York, and the teen counselors of Hackett's Quarry have the camp to themselves for one final night. But their celebration spirals into a night of horror, where your choices decide the fate of all nine.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/the-quarry.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/the-quarry-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/the-quarry.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/the-quarry-exp.webp",
     link: "https://store.steampowered.com/app/1577120/The_Quarry/",
     store: "steam",
     tags: [
@@ -303,10 +303,10 @@ const games = [
   },
   {
     name: "Layers of Fear",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/layers-of-fear-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/layers-of-fear-logo.webp",
     description: "All stories must come to an end, even twisted and eerie ones. The canvas. The stage. The novel. This narrative-focused psychological horror experience is ready for its final brushstrokes, its curtain call, its final chapter. Are you ready to return and face your fears one last time? ",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/layers-of-fear.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/layers-of-fear-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/layers-of-fear.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/layers-of-fear-exp.webp",
     link: "https://store.steampowered.com/app/1946700/Layers_of_Fear/",
     store: "steam",
     tags: [
@@ -322,10 +322,10 @@ const games = [
   },
   {
     name: "Layers of Fear 2",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/layers-of-fear-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/layers-of-fear-logo.webp",
     description: "Layers of Fear 2 is a first-person psychological horror game with an emphasis on exploration and story. The Player controls a Hollywood actor who heeds the call of an enigmatic director to take on the lead role in a film shot aboard an ocean liner.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/layers-of-fear-2.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/layers-of-fear-2-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/layers-of-fear-2.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/layers-of-fear-2-exp.webp",
     link: "https://store.steampowered.com/app/1029890/Layers_of_Fear_2_2019/",
     store: "steam",
     tags: [
@@ -341,10 +341,10 @@ const games = [
   },
   {
     name: "Subnautica",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/subnautica-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/subnautica-logo.webp",
     description: "Descend into the depths of an alien underwater world filled with wonder and peril. Craft equipment, pilot submarines and out-smart wildlife to explore lush coral reefs, volcanoes, cave systems, and more - all while trying to survive.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/subnautica.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/subnautica-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/subnautica.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/subnautica-exp.webp",
     link: "https://store.steampowered.com/app/264710/Subnautica/",
     store: "steam",
     tags: [
@@ -364,10 +364,10 @@ const games = [
   },
   {
     name: "Hello Neighbor",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/hello-neighbor-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/hello-neighbor-logo.webp",
     description: "Hello Neighbor is a stealth horror game about sneaking into your neighbor's house to figure out what horrible secrets he's hiding in the basement.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/hello-neighbor.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/hello-neighbor-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/hello-neighbor.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/hello-neighbor-exp.webp",
     link: "https://store.steampowered.com/app/521890/Hello_Neighbor/",
     store: "steam",
     tags: [
@@ -387,10 +387,10 @@ const games = [
   },
   {
     name: "White Knuckle",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/white-knuckle-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/white-knuckle-logo.webp",
     description: "White Knuckle is a first-person roguelite speed-climbing game. Ascend through the guts of SUB-STRUCTURE 17 using precision movement mechanics. Sharp reflexes and resource management will bring you out from under ten thousand meters of concrete and decay.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/white-knuckle.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/white-knuckle-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/white-knuckle.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/white-knuckle-exp.webp",
     link: "https://store.steampowered.com/app/3195790/White_Knuckle/",
     store: "steam",
     tags: [
@@ -402,10 +402,10 @@ const games = [
   },
   {
     name: "DEVOUR",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/devour-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/devour-logo.webp",
     description: "DEVOUR is a co-op horror survival game for 1-4 players. Stop possessed cultists before they drag you to hell. Run. Scream. Hide. Just don't get caught.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/devour.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/devour-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/devour.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/devour-exp.webp",
     link: "https://store.steampowered.com/app/1274570/DEVOUR/",
     store: "steam",
     tags: [
@@ -417,10 +417,10 @@ const games = [
   },
   {
     name: "Hello Neighbor 2",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/hello-neighbor-2-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/hello-neighbor-2-logo.webp",
     description: "Welcome back to the eerie town of Raven Brooks! You play as Quentin, a journalist investigating the bizarre events of the original Hello Neighbor game, uncovering a larger mystery. Sneak into your creepy Neighbors' houses to dig up the truth.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/hello-neighbor-2.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/hello-neighbor-2-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/hello-neighbor-2.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/hello-neighbor-2-exp.webp",
     link: "https://store.steampowered.com/app/1321680/Hello_Neighbor_2/",
     store: "steam",
     tags: [
@@ -440,10 +440,10 @@ const games = [
   },
   {
     name: "The Closing Shift",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/the-closing-shift-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/the-closing-shift-logo.webp",
     description: "The Closing Shift | 閉店事件 is a Japanese horror game about a girl on a closing shift.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/the-closing-shift.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/the-closing-shift-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/the-closing-shift.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/the-closing-shift-exp.webp",
     link: "https://store.steampowered.com/app/1843090/Chillas_Art_The_Closing_Shift/",
     store: "steam",
     tags: [
@@ -455,10 +455,10 @@ const games = [
   },
   {
     name: "Lethal Company",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/lethal-company-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/lethal-company-logo.webp",
     description: "A co-op horror about scavenging at abandoned moons to sell scrap to the Company.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/lethal-company.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/lethal-company-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/lethal-company.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/lethal-company-exp.webp",
     link: "https://store.steampowered.com/app/1966720/Lethal_Company/",
     store: "steam",
     tags: [
@@ -470,10 +470,10 @@ const games = [
   },
   {
     name: "Bendy and the Ink Machine",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/bendy-and-the-ink-machine-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/bendy-and-the-ink-machine-logo.webp",
     description: "Henry returns to his old animation studio after a strange letter from his former boss Joey Drew. But all he finds is sentient ink and living cartoons.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/bendy-and-the-ink-machine.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/bendy-and-the-ink-machine-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/bendy-and-the-ink-machine.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/bendy-and-the-ink-machine-exp.webp",
     link: "https://store.steampowered.com/app/622650/Bendy_and_the_Ink_Machine/",
     store: "steam",
     tags: [
@@ -489,10 +489,10 @@ const games = [
   },
   {
     name: "Little Nightmares",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/little-nightmares-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/little-nightmares-logo.webp",
     description: "Take on the role of Six, a lone child lost in a massive metal vessel known as the Maw, surrounded by dangerous, distorted versions of adults. You'll need to do your best to escape in one piece or your fate will be worse than you ever dared dream.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/little-nightmares.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/little-nightmares-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/little-nightmares.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/little-nightmares-exp.webp",
     link: "https://store.steampowered.com/app/424840/Little_Nightmares/",
     store: "steam",
     tags: [
@@ -504,10 +504,10 @@ const games = [
   },
   {
     name: "PANICORE",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/panicore-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/panicore-logo.webp",
     description: "In PANICORE, players take on the role of urban explorers drawn to dangerously abandoned places. Get in, find what secrets they hold... and get out alive.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/panicore.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/panicore-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/panicore.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/panicore-exp.webp",
     link: "https://store.steampowered.com/app/2695940/PANICORE/",
     store: "steam",
     tags: [
@@ -519,10 +519,10 @@ const games = [
   },
   {
     name: "Escape the Backrooms",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/escape-the-backrooms-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/escape-the-backrooms-logo.webp",
     description: "Escape the Backrooms is a 1-4 player co-op horror exploration game. Traverse through eerie backrooms levels while avoiding entities and other danger to try and escape.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/escape-the-backrooms.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/escape-the-backrooms-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/escape-the-backrooms.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/escape-the-backrooms-exp.webp",
     link: "https://store.steampowered.com/app/1943950/Escape_the_Backrooms/",
     store: "steam",
     tags: [
@@ -534,10 +534,10 @@ const games = [
   },
   {
     name: "Stories Untold",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/stories-untold-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/stories-untold-logo.webp",
     description: "Stories Untold is a compilation tape of four experimental scary adventures.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/stories-untold.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/stories-untold-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/stories-untold.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/stories-untold-exp.webp",
     link: "https://store.steampowered.com/app/558420/Stories_Untold/",
     store: "steam",
     tags: [
@@ -549,10 +549,10 @@ const games = [
   },
   {
     name: "Pacify",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/pacify-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/pacify-logo.webp",
     description: "There is reportedly an evil inside that house. Something about an old funeral parlor offering a last chance to talk to their dead loved ones. Plus something about a girl, missing people, etc... You know the same stuff everyone claims. Take a team, and check the place out.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/pacify.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/pacify-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/pacify.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/pacify-exp.webp",
     link: "https://store.steampowered.com/app/967050/Pacify/",
     store: "steam",
     tags: [
@@ -564,10 +564,10 @@ const games = [
   },
   {
     name: "Iron Lung",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/iron-lung-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/iron-lung-logo.webp",
     description: "A short horror game where you pilot a tiny submarine through an ocean of blood on an alien moon.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/iron-lung.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/iron-lung.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/iron-lung.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/iron-lung.webp",
     link: "https://store.steampowered.com/app/1846170/Iron_Lung/",
     store: "steam",
     tags: [
@@ -583,10 +583,10 @@ const games = [
   },
   {
     name: "Superliminal",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/superliminal-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/superliminal-logo.webp",
     description: "Perception is reality. In this mind-bending first-person puzzler, you escape a surreal dream world through solving impossible puzzles using the ambiguity of depth and perspective.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/superliminal.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/superliminal-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/superliminal.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/superliminal-exp.webp",
     link: "https://store.steampowered.com/app/1049410/Superliminal/",
     store: "steam",
     tags: [
@@ -602,10 +602,10 @@ const games = [
   },
   {
     name: "Portal 2",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/portal-2-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/portal-2-logo.webp",
     description: "Chell wakes in the ruins of Aperture Science, only to accidentally wake GLaDOS from her eternal slumber. Think with portals, keep testing and try to outwit her.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/portal-2.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/portal-2-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/portal-2.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/portal-2-exp.webp",
     link: "https://store.steampowered.com/app/620/Portal_2/",
     store: "steam",
     tags: [
@@ -621,10 +621,10 @@ const games = [
   },
   {
     name: "Portal",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/portal-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/portal-logo.webp",
     description: "Set in the mysterious Aperture Science Laboratories, Players must solve physical puzzles and challenges by opening portals to maneuver objects, and themselves, through space.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/portal.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/portal-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/portal.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/portal-exp.webp",
     link: "https://store.steampowered.com/app/400/Portal/",
     store: "steam",
     tags: [
@@ -640,10 +640,10 @@ const games = [
   },
   {
     name: "Eternal Threads",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/eternal-threads-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/eternal-threads-logo.webp",
     description: "Eternal Threads is a single-player, first-person story-driven puzzle game of temporal tampering, choice and consequence. Manipulate time to save a house full of people from dying in a huge fire.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/eternal-threads.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/eternal-threads-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/eternal-threads.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/eternal-threads-exp.webp",
     link: "https://store.steampowered.com/app/1046790/Eternal_Threads/",
     store: "steam",
     tags: [
@@ -659,10 +659,10 @@ const games = [
   },
   {
     name: "Q.U.B.E. 2",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/qube-2-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/qube-2-logo.webp",
     description: "You are Amelia Cross, a stranded archaeologist who has awoken among the ruins of an ancient alien landscape. With the distant help of another survivor you must solve the puzzles of this mysterious world and find a way back home.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/qube-2.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/qube-2-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/qube-2.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/qube-2-exp.webp",
     link: "https://store.steampowered.com/app/359100/QUBE_2/",
     store: "steam",
     tags: [
@@ -674,10 +674,10 @@ const games = [
   },
   {
     name: "Q.U.B.E.",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/qube-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/qube-logo.webp",
     description: "Using special high-tech gloves to manipulate cubes in the environment, the player solves an array of conundrums, from physics-based challenges; to 3D jigsaws; to platform-based trials.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/qube.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/qube-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/qube.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/qube-exp.webp",
     link: "https://store.steampowered.com/app/1564220/QUBE_10th_Anniversary/",
     store: "steam",
     tags: [
@@ -689,10 +689,10 @@ const games = [
   },
   {
     name: "KLETKA",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/kletka-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/kletka-logo.webp",
     description: "KLETKA is a co-op (up to 6 players) horror game about going down in an elevator that is trying to eat you. Feed the elevator, explore deadly floors and descend deeper.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/kletka.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/kletka-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/kletka.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/kletka-exp.webp",
     link: "https://store.steampowered.com/app/1699480/KLETKA/",
     store: "steam",
     tags: [
@@ -704,10 +704,10 @@ const games = [
   },
   {
     name: "Killer Frequency",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/killer-frequency-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/killer-frequency-logo.webp",
     description: "Killer Frequency is a first-person horror puzzle game set in 1987, that puts you in the role of a late-night radio talk show host in small town America whose callers are being stalked by a mysterious killer.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/killer-frequency.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/killer-frequency-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/killer-frequency.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/killer-frequency-exp.webp",
     link: "https://store.steampowered.com/app/1903620/Killer_Frequency/",
     store: "steam",
     tags: [
@@ -723,10 +723,10 @@ const games = [
   },
   {
     name: "Limbo",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/limbo-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/limbo-logo.webp",
     description: "LIMBO is a dark, puzzle-platformer world filled with deadly traps and haunting creatures. Navigate eerie forests, crumbling ruins, and shadowy depths to figure out your sisters fate.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/limbo.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/limbo-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/limbo.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/limbo-exp.webp",
     link: "https://store.steampowered.com/app/48000/LIMBO/",
     store: "steam",
     tags: [
@@ -738,10 +738,10 @@ const games = [
   },
   {
     name: "The Spectrum Retreat",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/the-spectrum-retreat-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/the-spectrum-retreat-logo.webp",
     description: "Check-in to The Spectrum Retreat for a stay you won't forget. Manipulate your way to the truth in this captivating narrative-driven puzzler.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/the-spectrum-retreat.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/the-spectrum-retreat-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/the-spectrum-retreat.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/the-spectrum-retreat-exp.webp",
     link: "https://store.steampowered.com/app/763250/The_Spectrum_Retreat/",
     store: "steam",
     tags: [
@@ -753,10 +753,10 @@ const games = [
   },
   {
     name: "The Silent Age",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/the-silent-age-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/the-silent-age-logo.webp",
     description: "Embark on an adventure through time with Joe, a simple janitor tasked with saving humanity from extinction. With the help of a mysterious time travel device, explore the present of 1972 and the post-apocalyptic future of 2012, uncovering the truth behind mankind's demise.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/the-silent-age.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/the-silent-age-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/the-silent-age.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/the-silent-age-exp.webp",
     link: "https://store.steampowered.com/app/352520/The_Silent_Age/",
     store: "steam",
     tags: [
@@ -772,10 +772,10 @@ const games = [
   },
   {
     name: "Thimbleweed Park",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/thimbleweed-park-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/thimbleweed-park-logo.webp",
     description: "In Thimbleweed Park, a dead body is the least of your problems. Switch between five playable characters to uncover the surreal secrets of this strange town in a modern mystery adventure game.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/thimbleweed-park.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/thimbleweed-park-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/thimbleweed-park.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/thimbleweed-park-exp.webp",
     link: "https://store.steampowered.com/app/569860/Thimbleweed_Park/",
     store: "steam",
     tags: [
@@ -791,10 +791,10 @@ const games = [
   },
   {
     name: "HUE",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/hue-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/hue-logo.webp",
     description: "Hue is a vibrant, puzzle-adventure, where you alter the world by changing its background colour.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/hue.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/hue-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/hue.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/hue-exp.webp",
     link: "https://store.steampowered.com/app/383270/Hue/",
     store: "steam",
     tags: [
@@ -806,10 +806,10 @@ const games = [
   },
   {
     name: "The Forest Quartet",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/the-forest-quartet-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/the-forest-quartet-logo.webp",
     description: "The Forest Quartet is a puzzle adventure about a gone, but not forgotten, lead singer. Play her spirit and travel through 3 acts unique to the members of her band for a final farewell concert.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/the-forest-quartet.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/the-forest-quartet-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/the-forest-quartet.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/the-forest-quartet-exp.webp",
     link: "https://store.steampowered.com/app/1620720/The_Forest_Quartet/",
     store: "steam",
     tags: [
@@ -825,10 +825,10 @@ const games = [
   },
   {
     name: "Getting Over It with Bennett Foddy",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/getting-over-it-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/getting-over-it-logo.webp",
     description: "A game I made for a certain kind of person. To hurt them.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/getting-over-it.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/getting-over-it-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/getting-over-it.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/getting-over-it-exp.webp",
     link: "https://store.steampowered.com/app/240720/Getting_Over_It_with_Bennett_Foddy/",
     store: "steam",
     tags: [
@@ -840,10 +840,10 @@ const games = [
   },
   {
     name: "Fortnite",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/fortnite-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/fortnite-logo.webp",
     description: "Create, play, and battle with friends in Fortnite. But you know what Fortnite is.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/fortnite.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/fortnite-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/fortnite.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/fortnite-exp.webp",
     link: "https://store.epicgames.com/hu/p/fortnite",
     store: "epic",
     tags: [
@@ -855,10 +855,10 @@ const games = [
   },
   {
     name: "Embr",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/embr-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/embr-logo.webp",
     description: "Fight fires for fun and profit in this unpredictable and frantic multiplayer game. Team up with friends, take on daily challenges and climb to the top of the corporate firefighting ladder.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/embr.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/embr-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/embr.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/embr-exp.webp",
     link: "https://store.steampowered.com/app/1062830/Embr/",
     store: "steam",
     tags: [
@@ -870,10 +870,10 @@ const games = [
   },
   {
     name: "Slime Rancher 2",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/slime-rancher-2-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/slime-rancher-2-logo.webp",
     description: "Continue the adventures of Beatrix LeBeau as she journeys across the Slime Sea to Rainbow Island, a land brimming with ancient mysteries, and bursting with wiggly, new slimes.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/slime-rancher-2.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/slime-rancher-2-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/slime-rancher-2.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/slime-rancher-2-exp.webp",
     link: "https://store.steampowered.com/app/1657630/Slime_Rancher_2/",
     store: "steam",
     tags: [
@@ -885,10 +885,10 @@ const games = [
   },
   {
     name: "Slime Rancher",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/slime-rancher-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/slime-rancher-logo.webp",
     description: "Slime Rancher is the tale of Beatrix LeBeau, a plucky, young rancher who sets out for a life a thousand light years away from Earth on the 'Far, Far Range' where she tries her hand at making a living wrangling slimes.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/slime-rancher.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/slime-rancher-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/slime-rancher.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/slime-rancher-exp.webp",
     link: "https://store.steampowered.com/app/433340/Slime_Rancher/",
     store: "steam",
     tags: [
@@ -900,10 +900,10 @@ const games = [
   },
   {
     name: "Teardown",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/teardown-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/teardown-logo.webp",
     description: "Prepare the perfect heist in this simulated and fully destructible voxel world. Tear down walls with vehicles or explosives to create shortcuts. Stack objects to reach higher. Use the environment to your advantage in the most creative way you can think of.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/teardown.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/teardown-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/teardown.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/teardown-exp.webp",
     link: "https://store.steampowered.com/app/1167630/Teardown/",
     store: "steam",
     tags: [
@@ -915,10 +915,10 @@ const games = [
   },
   {
     name: "Powerwash Simulator",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/powerwash-simulator-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/powerwash-simulator-logo.webp",
     description: "Release the Pressure with PowerWash Simulator! Wash away your worries with the soothing sounds of high-pressure water. Fire up your power washer and blast away every speck of dirt and grime you can find, all with the simple satisfaction of power-washing to a sparkling finish.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/powerwash-simulator.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/powerwash-simulator-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/powerwash-simulator.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/powerwash-simulator-exp.webp",
     link: "https://store.steampowered.com/app/1290000/PowerWash_Simulator/",
     store: "steam",
     tags: [
@@ -930,10 +930,10 @@ const games = [
   },
   {
     name: "Crime Scene Cleaner",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/crime-scene-cleaner-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/crime-scene-cleaner-logo.webp",
     description: "Once you get tangled with the mob, you will forever be a part of the mob. At least they pay a decent salary and all you have to do is clean up after their dirty work, but you know what you're doing. So clean crime scenes, earn as much money as you can, and get ready for the next mission.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/crime-scene-cleaner.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/crime-scene-cleaner-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/crime-scene-cleaner.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/crime-scene-cleaner-exp.webp",
     link: "https://store.steampowered.com/app/1040200/Crime_Scene_Cleaner/",
     store: "steam",
     tags: [
@@ -945,10 +945,10 @@ const games = [
   },
   {
     name: "Totally Accurate Battle Simulator",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/tabs-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/tabs-logo.webp",
     description: "Be the leader of wobblers from ancient lands, spooky places, and fantasy worlds. Watch them fight in simulations made with the wobbliest physics system ever created, make your own wobblers in the unit creator and send your army off to fight your friends in multiplayer.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/tabs.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/tabs-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/tabs.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/tabs-exp.webp",
     link: "https://store.steampowered.com/app/508440/Totally_Accurate_Battle_Simulator/",
     store: "steam",
     tags: [
@@ -960,10 +960,10 @@ const games = [
   },
   {
     name: "Life is Strange",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/life-is-strange-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/life-is-strange-logo.webp",
     description: "Life is Strange is an episodic adventure game that allows the player to rewind time and affect the past, present and future.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/life-is-strange.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/life-is-strange-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/life-is-strange.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/life-is-strange-exp.webp",
     link: "https://store.steampowered.com/app/1265920/Life_is_Strange_Remastered/",
     store: "steam",
     tags: [
@@ -975,10 +975,10 @@ const games = [
   },
   {
     name: "What Remains of Edith Finch",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/what-remains-of-edith-finch-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/what-remains-of-edith-finch-logo.webp",
     description: "What Remains of Edith Finch is a collection of strange tales about a family in Washington state. As Edith, you'll explore the colossal Finch house, searching for stories as she explores her family history and tries to figure out why she's the last one in her family left alive.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/what-remains-of-edith-finch.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/what-remains-of-edith-finch-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/what-remains-of-edith-finch.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/what-remains-of-edith-finch-exp.webp",
     link: "https://store.steampowered.com/app/501300/What_Remains_of_Edith_Finch/",
     store: "steam",
     tags: [
@@ -990,10 +990,10 @@ const games = [
   },
   {
     name: "Pacific Drive",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/pacific-drive-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/pacific-drive-logo.webp",
     description: "Face the supernatural dangers of the Olympic Exclusion Zone with a car as your only lifeline in this driving survival adventure! Scavenge resources, load up your trusty station wagon, and drive like hell to make it through alive.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/pacific-drive.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/pacific-drive-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/pacific-drive.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/pacific-drive-exp.webp",
     link: "https://store.steampowered.com/app/1458140/Pacific_Drive/",
     store: "steam",
     tags: [
@@ -1009,10 +1009,10 @@ const games = [
   },
   {
     name: "Resident Evil Village",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/resident-evil-8-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/resident-evil-8-logo.webp",
     description: "Ethan Winters is attacked and dragged to a remote, snowbound village, where he must fight 7 powerful members of a monster family and their mutated creatures to save his daughter.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/resident-evil-8.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/resident-evil-8-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/resident-evil-8.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/resident-evil-8-exp.webp",
     link: "https://store.steampowered.com/app/1196590/Resident_Evil_Village/",
     store: "steam",
     tags: [
@@ -1028,10 +1028,10 @@ const games = [
   },
   {
     name: "Minecraft",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/minecraft-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/minecraft-logo.webp",
     description: "A sandbox game where everything is made of blocks. Play alone, with friends or even on large servers.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/minecraft.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/minecraft-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/minecraft.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/minecraft-exp.webp",
     link: "https://www.minecraft.net",
     store: "nonstore",
     tags: [
@@ -1043,10 +1043,10 @@ const games = [
   },
   {
     name: "Terraria",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/terraria-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/terraria-logo.webp",
     description: "Dig, Fight, Explore, Build: The very world is at your fingertips as you fight for survival, fortune, and glory. Terraria is a unique gaming experience where both the journey and the destination are completely in the player's control.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/terraria.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/terraria-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/terraria.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/terraria-exp.webp",
     link: "https://store.steampowered.com/app/105600/Terraria/",
     store: "steam",
     tags: [
@@ -1058,10 +1058,10 @@ const games = [
   },
   {
     name: "Scrap Mechanic",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/scrap-mechanic-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/scrap-mechanic-logo.webp",
     description: "Enter the creative paradise of Scrap Mechanic! Build fantastic machines, go on adventures with your friends and defend against waves of evil Farmbots in this imaginative multiplayer survival sandbox. With Scrap Mechanic's powerful creation tools you can engineer your own adventures!",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/scrap-mechanic.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/scrap-mechanic-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/scrap-mechanic.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/scrap-mechanic-exp.webp",
     link: "https://store.steampowered.com/app/387990/Scrap_Mechanic/",
     store: "steam",
     tags: [
@@ -1073,10 +1073,10 @@ const games = [
   },
   {
     name: "Unturned",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/unturned-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/unturned-logo.webp",
     description: "Enter the creative paradise of Scrap Mechanic! Build fantastic machines, go on adventures with your friends and defend against waves of evil Farmbots in this imaginative multiplayer survival sandbox. With Scrap Mechanic's powerful creation tools you can engineer your own adventures!",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/unturned.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/unturned-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/unturned.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/unturned-exp.webp",
     link: "https://store.steampowered.com/app/304930/Unturned/",
     store: "steam",
     tags: [
@@ -1088,10 +1088,10 @@ const games = [
   },
   {
     name: "PickCrafter",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/pickcrafter-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/pickcrafter-logo.webp",
     description: "Break blocks, forge equipment, and collect powerful Pickaxes. Prestige to legendary tiers with the new Ascension Skill Tree. Discover biomes and battle epic bosses. Make meaningful choices and invent complex builds in this addictive endless adventure!",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/pickcrafter.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/pickcrafter-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/pickcrafter.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/pickcrafter-exp.webp",
     link: "https://store.steampowered.com/app/734750/PickCrafter/",
     store: "steam",
     tags: [
@@ -1103,10 +1103,10 @@ const games = [
   },
   {
     name: "Wolfenstein: The New Order",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/wolfenstein-the-new-order-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/wolfenstein-the-new-order-logo.webp",
     description: "In the 1960s where the Nazis won WWII, grizzled hero B.J. Blazkowicz rallies the resistance against their iron rule. Run, gun, and sneak through towering fortresses, to defeat the Nazis ruler",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/wolfenstein-the-new-order.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/wolfenstein-the-new-order-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/wolfenstein-the-new-order.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/wolfenstein-the-new-order-exp.webp",
     link: "https://store.steampowered.com/app/201810/Wolfenstein_The_New_Order/",
     store: "steam",
     tags: [
@@ -1126,10 +1126,10 @@ const games = [
   },
   {
     name: "Wolfenstein: The Old Blood",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/wolfenstein-the-old-blood-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/wolfenstein-the-old-blood-logo.webp",
     description: "Wolfenstein: The Old Blood is a standalone prequel where B.J. Blazkowicz infiltrates a Nazi castle in 1946 to steal secret plans. Things spiral into occult horrors, super-soldiers, and zombie outbreaks beneath the Bavarian mountains.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/wolfenstein-the-old-blood.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/wolfenstein-the-old-blood-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/wolfenstein-the-old-blood.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/wolfenstein-the-old-blood-exp.webp",
     link: "https://store.steampowered.com/app/350080/Wolfenstein_The_Old_Blood/",
     store: "steam",
     tags: [
@@ -1149,10 +1149,10 @@ const games = [
   },
   {
     name: "Blue Prince",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/blue-prince-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/blue-prince-logo.webp",
     description: "Navigate through shifting corridors and ever-changing chambers in this genre-defying strategy puzzle adventure. Find Room 46 in your uncle's 45 room mansion.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/blue-prince.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/blue-prince-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/blue-prince.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/blue-prince-exp.webp",
     link: "https://store.steampowered.com/app/1569580/Blue_Prince/",
     store: "steam",
     tags: [
@@ -1168,10 +1168,10 @@ const games = [
   },
   {
     name: "Dispatch",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/dispatch-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/dispatch-logo.webp",
     description: "Dispatch is a superhero workplace comedy where choices matter. Manage a dysfunctional team of misfit heroes and strategize who to send to emergencies around the city, all while balancing office politics, personal relationships, and your own quest to become a hero.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/dispatch.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/dispatch-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/dispatch.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/dispatch-exp.webp",
     link: "https://store.steampowered.com/app/2592160/Dispatch/",
     store: "steam",
     tags: [
@@ -1191,10 +1191,10 @@ const games = [
   },
   {
     name: "Resident Evil 4",
-    logoUrl: "https://mezozoltan.github.io/Game-List/images/resident-evil-4-logo.webp",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/resident-evil-4-logo.webp",
     description: "Six years have passed since the biological disaster in Raccoon City. Leon S. Kennedy, one of the survivors, tracks the president's kidnapped daughter to a secluded European village, where there is something terribly wrong with the locals.",
-    backgroundUrl: "https://mezozoltan.github.io/Game-List/images/resident-evil-4.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/Game-List/images/resident-evil-4-exp.webp",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/resident-evil-4.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/resident-evil-4-exp.webp",
     link: "https://store.steampowered.com/app/2050650/Resident_Evil_4/",
     store: "steam",
     tags: [
