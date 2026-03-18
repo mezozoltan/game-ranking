@@ -10,11 +10,11 @@ const games = [
     tags: [
       {
         name: "Survival-horror",
-        rank: 1
+        rank: 2
       },
       {
         name: "Story",
-        rank: 11
+        rank: 12
       }
     ]
   },
@@ -29,11 +29,11 @@ const games = [
     tags: [
       {
         name: "Survival-horror",
-        rank: 5
+        rank: 6
       },
       {
         name: "Story",
-        rank: 23
+        rank: 24
       }
     ]
   },
@@ -48,11 +48,11 @@ const games = [
     tags: [
       {
         name: "Survival-horror",
-        rank: 2
+        rank: 3
       },
       {
         name: "Story",
-        rank: 10
+        rank: 11
       }
     ]
   },
@@ -116,7 +116,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 7
+        rank: 8
       }
     ]
   },
@@ -210,7 +210,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 9
+        rank: 10
       }
     ]
   },
@@ -229,7 +229,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 32
+        rank: 33
       }
     ]
   },
@@ -263,7 +263,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 8
+        rank: 9
       }
     ]
   },
@@ -297,7 +297,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 16
+        rank: 17
       }
     ]
   },
@@ -316,7 +316,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 5
+        rank: 6
       }
     ]
   },
@@ -335,7 +335,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 20
+        rank: 21
       }
     ]
   },
@@ -354,7 +354,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 13
+        rank: 14
       },
       {
         name: "Survival",
@@ -381,7 +381,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 21
+        rank: 22
       }
     ]
   },
@@ -434,7 +434,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 31
+        rank: 32
       }
     ]
   },
@@ -483,7 +483,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 6
+        rank: 7
       }
     ]
   },
@@ -577,7 +577,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 28
+        rank: 29
       }
     ]
   },
@@ -615,7 +615,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 12
+        rank: 13
       }
     ]
   },
@@ -634,7 +634,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 22
+        rank: 23
       }
     ]
   },
@@ -653,7 +653,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 24
+        rank: 25
       }
     ]
   },
@@ -717,7 +717,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 25
+        rank: 26
       }
     ]
   },
@@ -766,7 +766,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 29
+        rank: 30
       }
     ]
   },
@@ -785,7 +785,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 27
+        rank: 28
       }
     ]
   },
@@ -819,7 +819,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 30
+        rank: 31
       }
     ]
   },
@@ -999,7 +999,7 @@ const games = [
     tags: [
       {
         name: "Story",
-        rank: 15
+        rank: 16
       },
       {
         name: "Survival",
@@ -1018,11 +1018,11 @@ const games = [
     tags: [
       {
         name: "Story",
-        rank: 17
+        rank: 18
       },
       {
         name: "Survival-horror",
-        rank: 4
+        rank: 5
       }
     ]
   },
@@ -1116,7 +1116,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 18
+        rank: 19
       },
       {
         name: "Shooter",
@@ -1139,7 +1139,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 19
+        rank: 20
       },
       {
         name: "Shooter",
@@ -1162,7 +1162,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 26
+        rank: 27
       }
     ]
   },
@@ -1200,11 +1200,30 @@ const games = [
     tags: [
       {
         name: "Survival-horror",
-        rank: 3
+        rank: 4
       },
       {
         name: "Story",
-        rank: 14
+        rank: 15
+      }
+    ]
+  },
+  {
+    name: "Resident Evil Requiem",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/resident-evil-9-logo.webp",
+    description: "FBI analyst Grace Ashcroft investigates a string of mysterious deaths tied to a decaying hotel where her mother was killed, uncovering a new outbreak that drags her into a nightmare linked to Raccoon City, with Leon S. Kennedy fighting alongside her.",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/resident-evil-9.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/resident-evil-9-exp.webp",
+    link: "https://store.steampowered.com/app/3764200/Resident_Evil_Requiem/",
+    store: "steam",
+    tags: [
+      {
+        name: "Survival-horror",
+        rank: 1
+      },
+      {
+        name: "Story",
+        rank: 5
       }
     ]
   }
