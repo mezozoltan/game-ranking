@@ -33,7 +33,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 24
+        rank: 25
       }
     ]
   },
@@ -161,7 +161,7 @@ const games = [
     tags: [
       {
         name: "Action",
-        rank: 10
+        rank: 11
       }
     ]
   },
@@ -176,7 +176,7 @@ const games = [
     tags: [
       {
         name: "Action",
-        rank: 11
+        rank: 12
       }
     ]
   },
@@ -191,7 +191,7 @@ const games = [
     tags: [
       {
         name: "Action",
-        rank: 12
+        rank: 13
       }
     ]
   },
@@ -206,7 +206,7 @@ const games = [
     tags: [
       {
         name: "Action",
-        rank: 13
+        rank: 14
       },
       {
         name: "Story",
@@ -225,11 +225,11 @@ const games = [
     tags: [
       {
         name: "Action",
-        rank: 15
+        rank: 17
       },
       {
         name: "Story",
-        rank: 33
+        rank: 35
       }
     ]
   },
@@ -244,7 +244,7 @@ const games = [
     tags: [
       {
         name: "Action",
-        rank: 14
+        rank: 15
       }
     ]
   },
@@ -335,7 +335,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 21
+        rank: 22
       }
     ]
   },
@@ -381,7 +381,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 22
+        rank: 23
       }
     ]
   },
@@ -434,7 +434,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 32
+        rank: 34
       }
     ]
   },
@@ -577,7 +577,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 29
+        rank: 30
       }
     ]
   },
@@ -634,7 +634,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 23
+        rank: 24
       }
     ]
   },
@@ -653,7 +653,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 25
+        rank: 26
       }
     ]
   },
@@ -717,7 +717,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 26
+        rank: 27
       }
     ]
   },
@@ -766,7 +766,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 30
+        rank: 31
       }
     ]
   },
@@ -785,7 +785,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 28
+        rank: 29
       }
     ]
   },
@@ -800,7 +800,7 @@ const games = [
     tags: [
       {
         name: "Puzzle",
-        rank: 16
+        rank: 17
       }
     ]
   },
@@ -815,11 +815,11 @@ const games = [
     tags: [
       {
         name: "Puzzle",
-        rank: 17
+        rank: 18
       },
       {
         name: "Story",
-        rank: 31
+        rank: 33
       }
     ]
   },
@@ -1135,15 +1135,15 @@ const games = [
     tags: [
       {
         name: "Action",
-        rank: 9
+        rank: 10
       },
       {
         name: "Story",
-        rank: 20
+        rank: 21
       },
       {
         name: "Shooter",
-        rank: 3
+        rank: 4
       }
     ]
   },
@@ -1162,7 +1162,7 @@ const games = [
       },
       {
         name: "Story",
-        rank: 27
+        rank: 28
       }
     ]
   },
@@ -1224,6 +1224,62 @@ const games = [
       {
         name: "Story",
         rank: 5
+      }
+    ]
+  },
+  {
+    name: "Wolfenstein II: The New Colossus",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/wolfenstein-2-the-new-colossus-logo.webp",
+    description: "America, 1961. The assassination of Nazi General Deathshead was a short-lived victory. Battered hero B.J. Blazkowicz reignites the resistance against their iron rule. Fight through occupied cities and Nazi strongholds to overthrow the regime and spark a second American revolution.",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/wolfenstein-2-the-new-colossus.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/wolfenstein-2-the-new-colossus-exp.webp",
+    link: "https://store.steampowered.com/agecheck/app/612880/",
+    store: "steam",
+    tags: [
+      {
+        name: "Shooter",
+        rank: 3
+      },
+      {
+        name: "Action",
+        rank: 9
+      },
+      {
+        name: "Story",
+        rank: 20
+      }
+    ]
+  },
+  {
+    name: "Mirror's Edge",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/mirrors-edge-logo.webp",
+    description: "In a city where information is heavily monitored, couriers called Runners transport sensitive data. In this seemingly utopian paradise, a crime has been committed, & you are being hunted. You are a Runner called Faith and this innovative first-person action-adventure is your story.",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/mirrors-edge.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/mirrors-edge-exp.webp",
+    link: "https://store.steampowered.com/app/17410/Mirrors_Edge/",
+    store: "steam",
+    tags: []
+  },
+  {
+    name: "Mirror's Edge",
+    logoUrl: "https://mezozoltan.github.io/game-ranking/images/mirrors-edge-logo.webp",
+    description: "In a city where information is heavily monitored, couriers called Runners transport sensitive data. In this seemingly utopian paradise, a crime has been committed, & you are being hunted. You are a Runner called Faith and this innovative first-person action-adventure is your story.",
+    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/mirrors-edge.webp",
+    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/mirrors-edge-exp.webp",
+    link: "https://store.steampowered.com/app/17410/Mirrors_Edge/",
+    store: "steam",
+    tags: [
+      {
+        name: "Action",
+        rank: 16
+      },
+      {
+        name: "Story",
+        rank: 32
+      },
+      {
+        name: "Puzzle",
+        rank: 16
       }
     ]
   }
