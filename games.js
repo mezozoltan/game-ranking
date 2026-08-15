@@ -1258,16 +1258,6 @@ const games = [
     expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/mirrors-edge-exp.webp",
     link: "https://store.steampowered.com/app/17410/Mirrors_Edge/",
     store: "steam",
-    tags: []
-  },
-  {
-    name: "Mirror's Edge",
-    logoUrl: "https://mezozoltan.github.io/game-ranking/images/mirrors-edge-logo.webp",
-    description: "In a city where information is heavily monitored, couriers called Runners transport sensitive data. In this seemingly utopian paradise, a crime has been committed, & you are being hunted. You are a Runner called Faith and this innovative first-person action-adventure is your story.",
-    backgroundUrl: "https://mezozoltan.github.io/game-ranking/images/mirrors-edge.webp",
-    expandedBackgroundUrl: "https://mezozoltan.github.io/game-ranking/images/mirrors-edge-exp.webp",
-    link: "https://store.steampowered.com/app/17410/Mirrors_Edge/",
-    store: "steam",
     tags: [
       {
         name: "Action",
